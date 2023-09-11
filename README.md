@@ -1,2 +1,5 @@
-# trabalho-hadoop
- MIT em Engenharia de Dados: BigData Trabalho Da Disciplina Infraestrutura Hadoop
+Trabalho de Fundamentos de Machine 
+                                                                           Instituto Infnet
+
+Aluno: Charles de Araujo Melo
+(https://colab.research.google.com/drive/19qHi1gS_c26J4wAntsy5f9IBtJhT92Vr#scrollTo=HJw0PmWJGbDp)https://colab.research.google.com/drive/19qHi1gS_c26J4wAntsy5f9IBtJhT92Vr#scrollTo=HJw0PmWJGbDp
